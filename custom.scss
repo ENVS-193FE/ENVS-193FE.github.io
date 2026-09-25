@@ -1,0 +1,107 @@
+/*-- scss:defaults --*/
+
+// Google font import
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+// fonts
+$font-family-sans-serif: 'Lato', sans-serif;
+
+// colors
+// warm
+$light-orange: #D98A63;
+$dark-orange: #BE5A47;
+$darker-orange: #B4450E;
+$bright-orange: #f59090;
+
+// blues
+$light-blue: #C0D8F0;
+$pale-blue: #D9E4DC;
+$light-grey-blue: #C5D2D2;
+$turquoise: #79B38F;
+$grey-blue: #A7C2CD;
+
+// greens
+$dark-green: #304830;
+$darker-green: #2F3425;
+$dark-sage-green: #607860;
+$light-sage-green: #92A587;
+$bright-green: #BED6B3;
+$light-green: #D3E3CA;  
+
+// greys and creams
+$light-cream: #fcfaf5;
+$cream: #E4DECE;
+$light-grey: #f7faf8;
+$light-grey2: #CAC8CF;
+$grey: #9BB1BB;
+
+// purples
+$purple: #654783;
+
+// quarto sass variables
+$navbar-bg: $grey-blue;
+$navbar-fg: $light-grey; 
+$navbar-hl: $darker-orange; 
+$body-color: #181800;
+$footer-bg: $light-grey; 
+$link-color: $light-orange;
+
+/*-- scss:rules --*/
+
+// header font & color
+h1, h2, h3, h4 {
+  font-family: $font-family-sans-serif;
+  color: $dark-green;
+}
+
+// line beneath h2
+h2 {
+  border-bottom: 1px solid $dark-green;
+  padding-bottom: 0.5rem;
+}
+
+.large-fa-icon {
+  font-size: 2.5em;
+}
+
+// XL body text
+.body-text-xl {
+  font-size: 30px;
+	line-height: 1.7em;
+	margin-bottom: 1em;
+}
+
+// L body text
+.body-text-l {
+  font-size: 25px;
+	line-height: 1.7em;
+	margin-bottom: 1em;
+}
+
+// M body text
+.body-text-m {
+  font-size: 20px;
+	line-height: 1.7em;
+	margin-bottom: 1em;
+}
+
+// S body text
+.body-text-s {
+  font-size: 14px;
+	line-height: 0.3em;
+}
+
+.table {
+  border-top: $grey;
+}
+
+thead, tbody, tfoot, tr, td, th {
+  border-color: $grey !important;
+  border-bottom: $grey;
+  border-style: solid;
+  border-width: 0;
+}
+
+#title-block-header.quarto-title-block.default .quarto-title .title {
+    color: $light-cream;
+}

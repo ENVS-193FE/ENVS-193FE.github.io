@@ -3,18 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "ENVS-193FE"
+  title: "ENVS 193FE"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - href: https://docs.google.com/document/d/1jVpUYIQizC8bupuHlFO3Zw4Tomf8oa5hZm5wFW8XhrI/edit?usp=sharing
+        text: Syllabus
+      - href: assignments.qmd
+        text: Assignments
       - href: resources.qmd
         text: Resources
-      - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: custom.scss
     css: styles.css
     toc: true
 

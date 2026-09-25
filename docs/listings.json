@@ -1,5 +1,12 @@
 [
   {
+    "listing": "/resources.html",
+    "items": [
+      "/resources/journaling-guide.html",
+      "/resources/notebook-setup.html"
+    ]
+  },
+  {
     "listing": "/assignments.html",
     "items": [
       "/assignments/01_site-selection.html"

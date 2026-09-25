@@ -12,7 +12,7 @@ format:
 lightbox: true
 ---
 
-![Cold Spring Trail, May 2026.](images/IMG_4080.jpeg){fig-alt="A photo of plants (buckwheat, sage) in the backcountry of Santa Barbara. The sage towers over the buckwheat. Blue sky can be seen in the background." fig-align="center" width="80%"}
+![More Mesa, September 2026.](images/more-mesa.jpg){fig-alt="Coast live oak trees form an arched canopy over a trail. The light streams through the trees. The ground is covered in leaf litter." fig-align="center" width="90%"}
 
 ## Instructional team
 

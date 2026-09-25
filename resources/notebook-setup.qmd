@@ -1,0 +1,61 @@
+---
+title: "Notebook set up"
+description: "Setting up so that you don't forget things"
+format: html
+---
+
+## Why is it important to set up your notebook?
+
+You will have to keep track of a lot of information. You are less likely to lose track of that information if you set up your notebook so that you _won't_ forget.
+
+:::{.callout-tip title="Prep for each field day!"}
+You will relieve pressure on your morning if you are able to prepare for class the night before. This includes your notebook! Before heading out, you can list the important metadata to have, format your pages, etc. so that by the time you are in the field, all you have to do is fill in the information.
+:::
+
+## Information for each day
+
+**All days of class or assignments should, at minimum, include the date.**
+
+For field days, you should be recording the following **metadata**, or information about your observations, in addition to the **date**:
+
+- time start and end of trip
+- number of people in group
+
+## Information for each species
+
+In class, we will stop to discuss some organisms to remember. For each organism, you should have your notes organized in a _table_ with the following columns:
+
+- species and/or common name
+- defining characteristics
+- context in which you observed the organism (e.g. foraging, growing with other shrubs)
+
+## Information for each field observation
+
+In the field, we will occasionally stop for you to conduct an "observation", or looking at, recording, reflecting on an organism or ecological interaction. For each observation, you should include the following metadata:
+
+- time start and end of observation
+- weather
+
+## Notebook checks
+
+Your in-class work will be checked and graded during weeks 4 and 10. There is an optional check during week 2 if you would like early feedback. When preparing your notebook for a check, make sure that it includes:
+
+- notes and reflective responses from section
+- field notes
+- field observations
+- all necessary metadata
+
+Additionally, be sure that your responses to questions are specific to the environment, field site, organism, etc. Not sure if you're providing enough detail? Have someone else read your notebook (and you can read theirs!) to see if there's something you're missing.
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,5 +1,19 @@
 ---
-title: "resources"
-format: html
+title: "Resources"
+format: 
+   html:
+     include-in-header: 
+        text: |
+          <style>
+          #title-block-header.quarto-title-block.default .quarto-title .title {
+          color: #BE5A47;
+          }
+          </style>
+freeze: auto
+listing: 
+  contents: resources # all Quarto docs in the `resources` directory will be included on your listing page
+  type: table # or `default` or `table`; each type has its own set of yaml options to include
+  fields: [title, description] # only display title and description
+  sort: "title" # can also sort on more than one field
+  categories: true # allows you to sort posts by assigned categories 
 ---
-

@@ -1,0 +1,9 @@
+---
+title: "Journaling guide"
+description: "What to consider when doing observations"
+format: html
+---
+
+## Field observations
+
+Every field day, you will be recording your observations in your notebook.

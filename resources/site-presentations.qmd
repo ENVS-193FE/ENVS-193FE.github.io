@@ -1,0 +1,33 @@
+---
+title: "Site presentations"
+description: "What to include in your presentation"
+format: html
+---
+
+## Overview
+
+Site presentations are a crucial part of sections. Site presentations allow everyone to set their expectations (or hopes!) of what the field trip will entail the next day.
+
+You will be responsible for briefing your peers for _one_ site. Sign up for a site presentation [here](https://docs.google.com/spreadsheets/d/1OR393YzaPTC-R-mELllMHuMeYUTgz5k1FTE8WXMv8Uk/edit?usp=sharing).
+
+## Your responsibilities
+
+Prior to giving your site presentation, you should:
+
+- [ ] complete any readings on Canvas
+- [ ] read the chapter relating to your site's ecosystem and/or management from _Ecosystems of California_
+- [ ] coordinate with your site presentation partner on: 
+  - [ ] how you would like to work together on your presentation
+  - [ ] when you would like to meet with An to check in about your presentation
+- [ ] explore observations from your site on iNaturalist and eBird
+  
+:::{.callout-tip title="_Ecosystems of California_"}
+Much of the ecological information you will need to digest and relay to your peers is in _Ecosystems of California_ (edited by Harold Mooney and Erika Zavaleta). The book can be accessed online via the [UCSB Library](https://search.library.ucsb.edu/permalink/01UCSB_INST/1o0vcsa/alma9912432923906531) for **free**. To access the book, you must be connected to the campus wireless network, logged in via the library proxy, or connected to a campus VPN. See An if you need help with any of these options.
+:::
+
+## What to include
+
+All site presentations should be in the form of Google or Powerpoint slides. Your presentation should include:
+
+- [ ] the site name
+- [ ] the dominant ecosystem type (this can be tricky to categorize, )

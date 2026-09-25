@@ -3,13 +3,15 @@
     "listing": "/resources.html",
     "items": [
       "/resources/journaling-guide.html",
-      "/resources/notebook-setup.html"
+      "/resources/notebook-setup.html",
+      "/resources/site-presentations.html"
     ]
   },
   {
     "listing": "/assignments.html",
     "items": [
-      "/assignments/01_site-selection.html"
+      "/assignments/01_site-and-species-selection.html",
+      "/assignments/02_interaction-diagram.html"
     ]
   }
 ]

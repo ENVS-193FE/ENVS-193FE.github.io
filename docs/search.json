@@ -4,7 +4,7 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\nJournaling guide\n\n\nWhat to consider when doing observations\n\n\n\n\nNotebook set up\n\n\nSetting up so that you don’t forget things\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\nJournaling guide\n\n\nWhat to consider when doing observations\n\n\n\n\nNotebook set up\n\n\nSetting up so that you don’t forget things\n\n\n\n\nSite presentations\n\n\nWhat to include in your presentation\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources/journaling-guide.html",
@@ -21,39 +21,102 @@
     "text": "Every field day, you will be recording your observations in your notebook."
   },
   {
-    "objectID": "assignments/01_site-selection.html",
-    "href": "assignments/01_site-selection.html",
-    "title": "Site selection",
+    "objectID": "resources/site-presentations.html",
+    "href": "resources/site-presentations.html",
+    "title": "Site presentations",
     "section": "",
-    "text": "Due Friday 2 October at 11:59 PM on Canvas"
+    "text": "Site presentations are a crucial part of sections. Site presentations allow everyone to set their expectations (or hopes!) of what the field trip will entail the next day.\nYou will be responsible for briefing your peers for one site. Sign up for a site presentation here."
   },
   {
-    "objectID": "assignments/01_site-selection.html#project-overview",
-    "href": "assignments/01_site-selection.html#project-overview",
-    "title": "Site selection",
-    "section": "Project overview",
-    "text": "Project overview\nThis is the first of five project prep assignments for the field guide assignment. Your final field guide will be a guide to the 5 most common species in a given taxonomic group at the site of your choosing."
+    "objectID": "resources/site-presentations.html#overview",
+    "href": "resources/site-presentations.html#overview",
+    "title": "Site presentations",
+    "section": "",
+    "text": "Site presentations are a crucial part of sections. Site presentations allow everyone to set their expectations (or hopes!) of what the field trip will entail the next day.\nYou will be responsible for briefing your peers for one site. Sign up for a site presentation here."
   },
   {
-    "objectID": "assignments/01_site-selection.html#assignment",
-    "href": "assignments/01_site-selection.html#assignment",
-    "title": "Site selection",
+    "objectID": "resources/site-presentations.html#your-responsibilities",
+    "href": "resources/site-presentations.html#your-responsibilities",
+    "title": "Site presentations",
+    "section": "Your responsibilities",
+    "text": "Your responsibilities\nPrior to giving your site presentation, you should:\n\ncomplete any readings on Canvas\nread the chapter relating to your site’s ecosystem and/or management from Ecosystems of California\ncoordinate with your site presentation partner on:\n\nhow you would like to work together on your presentation\nwhen you would like to meet with An to check in about your presentation\n\nexplore observations from your site on iNaturalist and eBird\n\n\n\n\n\n\n\nEcosystems of California\n\n\n\nMuch of the ecological information you will need to digest and relay to your peers is in Ecosystems of California (edited by Harold Mooney and Erika Zavaleta). The book can be accessed online via the UCSB Library for free. To access the book, you must be connected to the campus wireless network, logged in via the library proxy, or connected to a campus VPN. See An if you need help with any of these options."
+  },
+  {
+    "objectID": "resources/site-presentations.html#what-to-include",
+    "href": "resources/site-presentations.html#what-to-include",
+    "title": "Site presentations",
+    "section": "What to include",
+    "text": "What to include\nAll site presentations should be in the form of Google or Powerpoint slides. Your presentation should include:\n\nthe site name\nthe dominant ecosystem type (this can be tricky to categorize, )"
+  },
+  {
+    "objectID": "assignments/02_interaction-diagram.html",
+    "href": "assignments/02_interaction-diagram.html",
+    "title": "Interaction diagram",
+    "section": "",
+    "text": "Due Tuesday 6 October at the beginning of class"
+  },
+  {
+    "objectID": "assignments/02_interaction-diagram.html#overview",
+    "href": "assignments/02_interaction-diagram.html#overview",
+    "title": "Interaction diagram",
+    "section": "Overview",
+    "text": "Overview\nThis is the second of five project prep assignments for the field guide assignment. Previously, you selected two site × taxonomic group combinations and described why you were interested in those sites/groups. In this assignment, you will explore the potential relationships between species you selected and other species that may occur at that site. You will depict relationships between species using an interaction diagram that will ultimately appear in your final field guide.\nAll components of this assignment should be done by hand on paper."
+  },
+  {
+    "objectID": "assignments/02_interaction-diagram.html#before-starting-this-assignment",
+    "href": "assignments/02_interaction-diagram.html#before-starting-this-assignment",
+    "title": "Interaction diagram",
+    "section": "Before starting this assignment",
+    "text": "Before starting this assignment\n\nRead “Direct and Indirect Interactions” by Moon, Daniel C. et al. from Nature Education Knowledge.\nRead the species descriptions for your species in the appropriate field guide or textbook. This may include (but is not limited to):\n\nplants: The Jepson Manual edited by BG Baldwin, California Plants by Matt Ritter, A Californian’s guide to the trees among us by Matt Ritter\nbirds: Field guide to Birds of Western North America by Sibley\nreptiles: Field Guide to Amphibians and Reptiles of California by Stebbins and McGinnis\nmammals: Mammals of North America by Kays and Wilson\ninvertebrates: Field Guide to California Insects by Will, Gross, Rubinoff, and Powell\n\n\n\n\n\n\n\n\nUse library resources!\n\n\n\nAll the books listed above are available in hard copy or online via the library."
+  },
+  {
+    "objectID": "assignments/02_interaction-diagram.html#assignment",
+    "href": "assignments/02_interaction-diagram.html#assignment",
+    "title": "Interaction diagram",
     "section": "Assignment",
-    "text": "Assignment\n\n1. Familiarize yourself with the sites we will visit in this class.\nYou can find a list of sites on the syllabus and on the site selection spreadsheet.\n\n\n2. Sign up for two site × taxonomic group combinations.\nFor this and following steps, you will explore your options for two site × taxonomic group combinations. Your selections are not set in stone; however, you should give yourself the flexibility to explore two groups to ultimately choose one later on.\n\n\n3. Articulate your reasoning for your choices.\nIn 1-2 sentences, describe:\n\nwhy you are interested in these sites, with specific references to your own interests in ecosystems, experience, etc.\nwhy you are interested in these taxonomic groups, again with specific references to your own interests\nwhy you want to explore the taxonomic groups you chose at the sites you chose\nhow you personally might be able to transport yourself to these sites, if you needed to visit them (e.g. via bus, car, etc.) - be realistic about this!"
+    "text": "Assignment\n\n1. Draw and describe one ecological relationship for each of your taxonomic groups.\nChoose one pair of species from each taxonomic group. Consider the flow of energy between both species. For each pair, draw the appropriate arrows connecting the two species in the pair.\nFor each pair, explain in 2-3 sentences why you drew the interaction in that way, using information about the morphology, phenology, habitat, and/or behavior of each species. Be specific about the characteristics you used to categorize the interaction. Provide citations for information about species characteristics and any other details you found from the literature.\n\n\n2. Draw interaction diagrams between all the species you chose for each taxonomic group.\nYou should have two interaction diagrams - one for each group - with arrows connecting each species. With new species, the flow of energy may change from the diagram you drew in part 1 (though it may stay the same!).\nFor each diagram, explain in 2-3 sentences why you think those interactions exist, using characteristics of each species to justify your thinking. As above, be specific about the characteristics you used to categorize the interaction and provide citations.\n\n\n3. Draw interaction diagrams incorporating three new species not included in your core species list.\nRecreate each diagram you drew in part 2 with two additional species outside of your focal taxonomic group.\nFor each diagram, explain in 3-5 sentences - how and why you chose the new species - how the diagram has changed with the addition of the new species\nBe specific about the characteristics of the species that inform your choice of interaction. Provide citations as needed."
   },
   {
-    "objectID": "assignments/01_site-selection.html#checklist",
-    "href": "assignments/01_site-selection.html#checklist",
-    "title": "Site selection",
+    "objectID": "assignments/02_interaction-diagram.html#checklist",
+    "href": "assignments/02_interaction-diagram.html#checklist",
+    "title": "Interaction diagram",
     "section": "Checklist",
-    "text": "Checklist\nBy the due date, you should have:\n\nsigned up for two site × taxonomic group combinations\naddressed the points in part 3"
+    "text": "Checklist\nBy the due date, you should have:\n\ndrawings and written responses for part 1\ndrawings and written responses for part 2\ndrawings and written responses for part 3\n\nAs a reminder: all components of this assignment should be done by hand in pen, pencil, or other writing implement on paper. You will turn in the paper copy of your work in class on Tuesday."
   },
   {
     "objectID": "assignments.html",
     "href": "assignments.html",
     "title": "Assignments",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Due date - Oldest\n        \n         \n          Due date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nDue date\n\n\n\n\n\n\nSite selection\n\n\nOct 2, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Due date - Oldest\n        \n         \n          Due date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nDue date\n\n\n\n\n\n\nSite and species selection\n\n\nOct 2, 2026\n\n\n\n\nInteraction diagram\n\n\nOct 6, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "assignments/01_site-and-species-selection.html",
+    "href": "assignments/01_site-and-species-selection.html",
+    "title": "Site and species selection",
+    "section": "",
+    "text": "Due Friday 2 October at 11:59 PM on Canvas"
+  },
+  {
+    "objectID": "assignments/01_site-and-species-selection.html#project-overview",
+    "href": "assignments/01_site-and-species-selection.html#project-overview",
+    "title": "Site and species selection",
+    "section": "Project overview",
+    "text": "Project overview\nThis is the first of five project prep assignments for the field guide assignment. Your final field guide will be a guide to the 5 most common species in a given taxonomic group at the site of your choosing."
+  },
+  {
+    "objectID": "assignments/01_site-and-species-selection.html#assignment",
+    "href": "assignments/01_site-and-species-selection.html#assignment",
+    "title": "Site and species selection",
+    "section": "Assignment",
+    "text": "Assignment\n\n1. Familiarize yourself with the sites we will visit in this class.\nYou can find a list of sites on the syllabus and on the site selection spreadsheet.\n\n\n2. Sign up for two site × taxonomic group combinations.\nFor this and following steps, you will explore your options for two site × taxonomic group combinations. Your selections are not set in stone; however, you should give yourself the flexibility to explore two groups to ultimately choose one later on.\n\n\n3. Articulate your reasoning for your choices.\nIn 1-3 sentences, describe:\n\nwhy you are interested in these sites, with specific references to your own interests in ecosystems, experience, etc.\nwhy you are interested in these taxonomic groups, again with specific references to your own interests\nwhy you want to explore the taxonomic groups you chose at the sites you chose\nhow you personally might be able to transport yourself to these sites, if you needed to visit them (e.g. via bus, car, etc.) - be realistic about this!\n\n\n\n4. Find the 5 most common species in each group at your chosen site(s).\nUsing iNaturalist, eBird, or any other observation database, find the most common species in your taxonomic group of choice at your sites.\nFor each site × taxonomic group combination, you should:\n\nmake a list of the 5 most common species\ndescribe in 1-3 sentences how you found those species (for example, what filters or processes on iNaturalist did you use)"
+  },
+  {
+    "objectID": "assignments/01_site-and-species-selection.html#checklist",
+    "href": "assignments/01_site-and-species-selection.html#checklist",
+    "title": "Site and species selection",
+    "section": "Checklist",
+    "text": "Checklist\nBy the due date, you should have:\n\nsigned up for two site × taxonomic group combinations\naddressed the points in part 3 and 4 in a Word or Google doc\nuploaded your written responses to the Canvas portal"
   },
   {
     "objectID": "resources/notebook-setup.html",

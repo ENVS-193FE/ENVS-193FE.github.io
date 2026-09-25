@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2026-10-02">
 
-<title>ENVS 193FE - Resources</title>
+<title>ENVS 193FE - Site and species selection</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +24,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,82 +67,19 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-<style>
-#title-block-header.quarto-title-block.default .quarto-title .title {
-color: #BE5A47;
-}
-</style>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">ENVS 193FE</span>
     </a>
   </div>
@@ -158,11 +94,11 @@ window.Quarto = {
 <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./assignments.html"> 
+    <a class="nav-link" href="../assignments.html"> 
 <span class="menu-text">Assignments</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./resources.html" aria-current="page"> 
+    <a class="nav-link" href="../resources.html"> 
 <span class="menu-text">Resources</span></a>
   </li>  
 </ul>
@@ -173,97 +109,113 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Site and species selection</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">field guide</div>
+                <div class="quarto-category">individual assignment</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+      <div>
+      <div class="quarto-title-meta-heading">Due date</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">October 2, 2026</p>
+      </div>
+    </div>
+    
+      <div>
+      <div class="quarto-title-meta-heading">Modified</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date-modified">September 25, 2026</p>
+      </div>
+    </div>
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div></div></div>
-<!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Resources</h1>
-</div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-
-
-
-
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title-sort" data-direction="asc">
-          Title
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#project-overview" id="toc-project-overview" class="nav-link active" data-scroll-target="#project-overview">Project overview</a></li>
+  <li><a href="#assignment" id="toc-assignment" class="nav-link" data-scroll-target="#assignment">Assignment</a>
+  <ul class="collapse">
+  <li><a href="#familiarize-yourself-with-the-sites-we-will-visit-in-this-class." id="toc-familiarize-yourself-with-the-sites-we-will-visit-in-this-class." class="nav-link" data-scroll-target="#familiarize-yourself-with-the-sites-we-will-visit-in-this-class.">1. Familiarize yourself with the sites we will visit in this class.</a></li>
+  <li><a href="#sign-up-for-two-site-taxonomic-group-combinations." id="toc-sign-up-for-two-site-taxonomic-group-combinations." class="nav-link" data-scroll-target="#sign-up-for-two-site-taxonomic-group-combinations.">2. Sign up for <em>two</em> site × taxonomic group combinations.</a></li>
+  <li><a href="#articulate-your-reasoning-for-your-choices." id="toc-articulate-your-reasoning-for-your-choices." class="nav-link" data-scroll-target="#articulate-your-reasoning-for-your-choices.">3. Articulate your reasoning for your choices.</a></li>
+  <li><a href="#find-the-5-most-common-species-in-each-group-at-your-chosen-sites." id="toc-find-the-5-most-common-species-in-each-group-at-your-chosen-sites." class="nav-link" data-scroll-target="#find-the-5-most-common-species-in-each-group-at-your-chosen-sites.">4. Find the 5 most common species in each group at your chosen site(s).</a></li>
+  </ul></li>
+  <li><a href="#checklist" id="toc-checklist" class="nav-link" data-scroll-target="#checklist">Checklist</a></li>
+  </ul>
+</nav>
     </div>
-</div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-<th>
-Description
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-listing-file-modified-sort="1790311956791" data-listing-reading-time-sort="1" data-listing-word-count-sort="12" data-listing-title-sort="Journaling guide" data-listing-filename-sort="journaling-guide.qmd">
-<td>
-<a href="./resources/journaling-guide.html" class="title listing-title">Journaling guide</a>
-</td>
-<td>
-<span class="listing-description">What to consider when doing observations</span>
-</td>
-</tr>
-<tr data-index="1" data-listing-file-modified-sort="1790311916085" data-listing-reading-time-sort="2" data-listing-word-count-sort="325" data-listing-title-sort="Notebook set up" data-listing-filename-sort="notebook-setup.qmd">
-<td>
-<a href="./resources/notebook-setup.html" class="title listing-title">Notebook set up</a>
-</td>
-<td>
-<span class="listing-description">Setting up so that you don’t forget things</span>
-</td>
-</tr>
-<tr data-index="2" data-listing-file-modified-sort="1790361512372" data-listing-reading-time-sort="2" data-listing-word-count-sort="246" data-listing-title-sort="Site presentations" data-listing-filename-sort="site-presentations.qmd">
-<td>
-<a href="./resources/site-presentations.html" class="title listing-title">Site presentations</a>
-</td>
-<td>
-<span class="listing-description">What to include in your presentation</span>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+
+<p><span style="color: #D95204; font-size: 28px;">Due Friday 2 October at 11:59 PM on Canvas</span></p>
+<section id="project-overview" class="level2">
+<h2 class="anchored" data-anchor-id="project-overview">Project overview</h2>
+<p>This is the first of five project prep assignments for the <strong>field guide</strong> assignment. Your final field guide will be a guide to the 5 most common species in a given taxonomic group at the site of your choosing.</p>
+</section>
+<section id="assignment" class="level2">
+<h2 class="anchored" data-anchor-id="assignment">Assignment</h2>
+<section id="familiarize-yourself-with-the-sites-we-will-visit-in-this-class." class="level3">
+<h3 class="anchored" data-anchor-id="familiarize-yourself-with-the-sites-we-will-visit-in-this-class.">1. Familiarize yourself with the sites we will visit in this class.</h3>
+<p>You can find a list of sites on the syllabus and on the site selection spreadsheet.</p>
+</section>
+<section id="sign-up-for-two-site-taxonomic-group-combinations." class="level3">
+<h3 class="anchored" data-anchor-id="sign-up-for-two-site-taxonomic-group-combinations.">2. Sign up for <em>two</em> site × taxonomic group combinations.</h3>
+<p>For this and following steps, you will explore your options for two site × taxonomic group combinations. Your selections are <em>not</em> set in stone; however, you should give yourself the flexibility to explore two groups to ultimately choose one later on.</p>
+</section>
+<section id="articulate-your-reasoning-for-your-choices." class="level3">
+<h3 class="anchored" data-anchor-id="articulate-your-reasoning-for-your-choices.">3. Articulate your reasoning for your choices.</h3>
+<p>In 1-3 sentences, describe:</p>
+<ul>
+<li>why you are interested in these sites, with specific references to your own interests in ecosystems, experience, etc.</li>
+<li>why you are interested in these taxonomic groups, again with specific references to your own interests</li>
+<li>why you want to explore the taxonomic groups you chose at the sites you chose</li>
+<li>how you personally might be able to transport yourself to these sites, if you needed to visit them (e.g.&nbsp;via bus, car, etc.) - be realistic about this!</li>
+</ul>
+</section>
+<section id="find-the-5-most-common-species-in-each-group-at-your-chosen-sites." class="level3">
+<h3 class="anchored" data-anchor-id="find-the-5-most-common-species-in-each-group-at-your-chosen-sites.">4. Find the 5 most common species in each group at your chosen site(s).</h3>
+<p>Using iNaturalist, eBird, or any other observation database, find the most common species in your taxonomic group of choice at your sites.</p>
+<p>For each site × taxonomic group combination, you should:</p>
+<ul class="task-list">
+<li><label><input type="checkbox">make a list of the 5 most common species</label></li>
+<li><label><input type="checkbox">describe in 1-3 sentences how you found those species (for example, what filters or processes on iNaturalist did you use)</label></li>
+</ul>
+</section>
+</section>
+<section id="checklist" class="level2">
+<h2 class="anchored" data-anchor-id="checklist">Checklist</h2>
+<p>By the due date, you should have:</p>
+<ul class="task-list">
+<li><label><input type="checkbox">signed up for <em>two</em> site × taxonomic group combinations</label></li>
+<li><label><input type="checkbox">addressed the points in part 3 and 4 in a Word or Google doc</label></li>
+<li><label><input type="checkbox">uploaded your written responses to the Canvas portal</label></li>
+</ul>
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

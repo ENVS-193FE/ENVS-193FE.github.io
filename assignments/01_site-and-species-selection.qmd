@@ -1,9 +1,10 @@
 ---
-title: "Site selection"
+title: "Site and species selection"
 date: 2026-10-02
+categories: [field guide, individual assignment]
 ---
 
-[Due Friday 2 October at 11:59 PM on Canvas]{style="color: #BE5A47; font-size: 24px;"}  
+[Due Friday 2 October at 11:59 PM on Canvas]{style="color: #D95204; font-size: 28px;"}  
 
 ## Project overview
 
@@ -21,26 +22,26 @@ For this and following steps, you will explore your options for two site × taxo
 
 ### 3. Articulate your reasoning for your choices.
 
-In 1-2 sentences, describe:
+In 1-3 sentences, describe:
 
 - why you are interested in these sites, with specific references to your own interests in ecosystems, experience, etc.
 - why you are interested in these taxonomic groups, again with specific references to your own interests
 - why you want to explore the taxonomic groups you chose at the sites you chose
 - how you personally might be able to transport yourself to these sites, if you needed to visit them (e.g. via bus, car, etc.) - be realistic about this!
 
+### 4. Find the 5 most common species in each group at your chosen site(s).
+
+Using iNaturalist, eBird, or any other observation database, find the most common species in your taxonomic group of choice at your sites. 
+
+For each site × taxonomic group combination, you should:
+
+- [ ] make a list of the 5 most common species
+- [ ] describe in 1-3 sentences how you found those species (for example, what filters or processes on iNaturalist did you use)
+
 ## Checklist
 
 By the due date, you should have:
 
 - [ ] signed up for _two_ site × taxonomic group combinations
-- [ ] addressed the points in part 3
-
-
-
-
-
-
-
-
-
-
+- [ ] addressed the points in part 3 and 4 in a Word or Google doc
+- [ ] uploaded your written responses to the Canvas portal

@@ -12,6 +12,11 @@ $light-orange: #D98A63;
 $dark-orange: #BE5A47;
 $darker-orange: #B4450E;
 $bright-orange: #f59090;
+$yellow: #F2B705;
+$yellow-orange: #F29F05;
+$orange: #F28705;
+$red-orange: #D95204;
+$rust: #A62F03;
 
 // blues
 $light-blue: #C0D8F0;
@@ -39,12 +44,12 @@ $grey: #9BB1BB;
 $purple: #654783;
 
 // quarto sass variables
-$navbar-bg: $grey-blue;
+$navbar-bg: $rust;
 $navbar-fg: $light-grey; 
-$navbar-hl: $darker-orange; 
+$navbar-hl: $light-blue; 
 $body-color: #181800;
 $footer-bg: $light-grey; 
-$link-color: $light-orange;
+$link-color: $red-orange;
 
 /*-- scss:rules --*/
 

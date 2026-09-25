@@ -1,0 +1,61 @@
+---
+title: "Interaction diagram"
+date: 2026-10-06
+categories: [field guide, individual assignment, ]
+---
+
+[Due Tuesday 6 October at the beginning of class]{style="color: #D95204; font-size: 28px;"} 
+
+## Overview
+
+This is the second of five project prep assignments for the **field guide** assignment. Previously, you selected two site × taxonomic group combinations and described why you were interested in those sites/groups. In this assignment, you will explore the potential relationships between species you selected and other species that may occur at that site. You will depict relationships between species using an **interaction diagram** that will ultimately appear in your final field guide.
+
+[All components of this assignment should be done by hand on paper.]{style="color: #D95204; font-weight: bold"} 
+
+## Before starting this assignment
+
+- [ ] Read ["Direct and Indirect Interactions"](https://www.nature.com/scitable/knowledge/library/direct-and-indirect-interactions-15650000/) by Moon, Daniel C. et al. from _Nature Education Knowledge_.
+- [ ] Read the species descriptions for your species in the appropriate field guide or textbook. This may include (but is not limited to):
+  - plants: _The Jepson Manual_ edited by BG Baldwin, _California Plants_ by Matt Ritter, _A Californian's guide to the trees among us_ by Matt Ritter
+  - birds: _Field guide to Birds of Western North America_ by Sibley
+  - reptiles: _Field Guide to Amphibians and Reptiles of California_ by Stebbins and McGinnis
+  - mammals: _Mammals of North America_ by Kays and Wilson
+  - invertebrates: _Field Guide to California Insects_ by Will, Gross, Rubinoff, and Powell
+  
+:::{.callout-note title="Use library resources!"}
+All the books listed above are available in hard copy or online via the library.
+:::
+
+## Assignment
+
+### 1. Draw and describe one ecological relationship for each of your taxonomic groups.
+
+Choose one pair of species from each taxonomic group. Consider the flow of energy between both species. For each pair, draw the appropriate arrows connecting the two species in the pair.
+
+For each pair, explain in 2-3 sentences _why_ you drew the interaction in that way, using information about the morphology, phenology, habitat, and/or behavior of each species. _Be specific_ about the characteristics you used to categorize the interaction. Provide citations for information about species characteristics and any other details you found from the literature.
+
+### 2. Draw interaction diagrams between all the species you chose for each taxonomic group.
+
+You should have two interaction diagrams - one for each group - with arrows connecting each species. With new species, the flow of energy may change from the diagram you drew in part 1 (though it may stay the same!).
+
+For each diagram, explain in 2-3 sentences why you think those interactions exist, using characteristics of each species to justify your thinking. As above, be specific about the characteristics you used to categorize the interaction and provide citations.
+
+### 3. Draw interaction diagrams incorporating three new species _not_ included in your core species list.
+
+Recreate each diagram you drew in part 2 with two additional species _outside_ of your focal taxonomic group. 
+
+For each diagram, explain in 3-5 sentences
+- how and why you chose the new species
+- how the diagram has changed with the addition of the new species
+
+_Be specific_ about the characteristics of the species that inform your choice of interaction. Provide citations as needed.
+
+## Checklist
+
+By the due date, you should have:
+
+- [ ] drawings and written responses for part 1
+- [ ] drawings and written responses for part 2
+- [ ] drawings and written responses for part 3
+
+As a reminder: [all components of this assignment should be done by hand in pen, pencil, or other writing implement on paper.]{style="color: #D95204; font-weight: bold"} You will turn in the paper copy of your work in class on Tuesday.

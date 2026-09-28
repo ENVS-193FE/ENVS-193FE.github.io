@@ -2,6 +2,7 @@
 title: "Site presentations"
 description: "What to include in your presentation"
 format: html
+draft: true
 ---
 
 ## Overview

@@ -4,49 +4,77 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\nJournaling guide\n\n\nWhat to consider when doing observations\n\n\n\n\nNotebook set up\n\n\nSetting up so that you don’t forget things\n\n\n\n\nSite presentations\n\n\nWhat to include in your presentation\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\nGuide to field note-taking\n\n\nWhat to consider when recording information in the field\n\n\n\n\nMethods of promoting observations\n\n\nthings to think about when conducting an observation\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "resources/journaling-guide.html",
-    "href": "resources/journaling-guide.html",
-    "title": "Journaling guide",
+    "objectID": "resources/notebook-organization.html",
+    "href": "resources/notebook-organization.html",
+    "title": "Guide to field note-taking",
     "section": "",
-    "text": "Every field day, you will be recording your observations in your notebook."
+    "text": "You will have to keep track of a lot of information. You are less likely to lose track of that information if you set up your notebook so that you won’t forget.\n\n\n\n\n\n\nPrep for each field day!\n\n\n\nYou will relieve pressure on your morning if you are able to prepare for class the night before. This includes your notebook! Before heading out, you can list the important metadata to have, format your pages, etc. so that by the time you are in the field, all you have to do is fill in the information."
   },
   {
-    "objectID": "resources/journaling-guide.html#field-observations",
-    "href": "resources/journaling-guide.html#field-observations",
-    "title": "Journaling guide",
+    "objectID": "resources/notebook-organization.html#why-is-it-important-to-set-up-your-notebook",
+    "href": "resources/notebook-organization.html#why-is-it-important-to-set-up-your-notebook",
+    "title": "Guide to field note-taking",
     "section": "",
-    "text": "Every field day, you will be recording your observations in your notebook."
+    "text": "You will have to keep track of a lot of information. You are less likely to lose track of that information if you set up your notebook so that you won’t forget.\n\n\n\n\n\n\nPrep for each field day!\n\n\n\nYou will relieve pressure on your morning if you are able to prepare for class the night before. This includes your notebook! Before heading out, you can list the important metadata to have, format your pages, etc. so that by the time you are in the field, all you have to do is fill in the information."
   },
   {
-    "objectID": "resources/site-presentations.html",
-    "href": "resources/site-presentations.html",
-    "title": "Site presentations",
+    "objectID": "resources/notebook-organization.html#notebook-organization",
+    "href": "resources/notebook-organization.html#notebook-organization",
+    "title": "Guide to field note-taking",
+    "section": "Notebook organization",
+    "text": "Notebook organization\nEvery field day, you will be recording your observations in your notebook. Your field notebook is the repository for all the information you will be learning in the field. It is very important to keep it organized!\nEach field day should include:\n\nMetadata\nSpecies account\nObservations and field notes\nPost-field day reflection\n\nYour species account and observations with field notes will be completed in class. Your post-field day reflection will be done outside of class."
+  },
+  {
+    "objectID": "resources/notebook-organization.html#metadata",
+    "href": "resources/notebook-organization.html#metadata",
+    "title": "Guide to field note-taking",
+    "section": "Metadata",
+    "text": "Metadata\n“Metadata” is information about information. Metadata provides broad context for the information you record in your notebook. For each field day, you should record:\n\nDate\nTime (start and end)\nLocation\nNumber of people in group\nWeather (qualitative description)"
+  },
+  {
+    "objectID": "resources/notebook-organization.html#species-accounts",
+    "href": "resources/notebook-organization.html#species-accounts",
+    "title": "Guide to field note-taking",
+    "section": "Species accounts",
+    "text": "Species accounts\nIn the field, we will walk around and identify organisms of varying taxonomic groups to get a sense of how a habitat or ecosystem is structured.\nYour species account should be organized in a table; you can draw this in your notebook prior to the field day so that you can keep track of the species we discuss.\nEach species account section should be organized with the following information in organized columns:\n\nspecies\nnumber of individuals\nidentifying characteristics\nbehavior, phenology, location, etc.\nnotes\n\n\n\n\n\n\n\nPriorities in the field\n\n\n\nYou may find that your notes get messy when you’re taking down information in the field. That is ok! If your species accounts get messy, take time after class to copy your notes onto clean pages in your notebook.\nYou will receive feedback to incorporate this practice into your maintenance of your field notebook during the notebook checks if your species accounts are particularly messy."
+  },
+  {
+    "objectID": "resources/notebook-organization.html#observations-and-field-notes",
+    "href": "resources/notebook-organization.html#observations-and-field-notes",
+    "title": "Guide to field note-taking",
+    "section": "Observations and field notes",
+    "text": "Observations and field notes\nField notes and observations are the core of this class. Good notes document species observations (what did you see), behaviors/trends/phenomena (what was it doing), and the context for those observations (where did you see what you saw, at what time of day/year). Field notes also signify what you think is important to document; you are assigning value to information when you’re deciding whether or not to write it down.\nAbove all, field notes must be honest and accurate. This means that you have documented what you have sincerely tried to understand as true, incorporating information from your own perspective, others’ perspectives, and other sources of information (e.g. field guides, literature)."
+  },
+  {
+    "objectID": "resources/notebook-organization.html#post-field-trip-reflection",
+    "href": "resources/notebook-organization.html#post-field-trip-reflection",
+    "title": "Guide to field note-taking",
+    "section": "Post-field trip reflection",
+    "text": "Post-field trip reflection\nEach field trip should be accompanied by a reflection, which takes the form of a diary format chronicling the trip using information from the notes you take in the field (this is why it’s important to keep good field notes!).\nEach reflection should start with the date and time you complete the reflection (I recommend the same-day or day after, when things are fresh in your memory).\nThe content of the reflection should include:\n\nA narrative account of the trip: where we went at the site, where we stopped to conduct detailed observations, etc.\nNew experiences for you: for example, a new organism, drawing, conversation with someone in the class, identification, etc.\nHow you improved in a skill: for example, drawing a diagram, composing an observation page, keeping track of all your personal items, etc.\n\nAll reflections should be done in your field notebook."
+  },
+  {
+    "objectID": "resources/promoting-observations.html",
+    "href": "resources/promoting-observations.html",
+    "title": "Methods of promoting observations",
     "section": "",
-    "text": "Site presentations are a crucial part of sections. Site presentations allow everyone to set their expectations (or hopes!) of what the field trip will entail the next day.\nYou will be responsible for briefing your peers for one site. Sign up for a site presentation here."
+    "text": "Source credit\n\n\n\nMuch of the inspiration for note-taking and observation comes from common note-taking methods in ecological disciplines and John Muir Laws’s The Guide to Nature Drawing and Journaling. If you’re interested in borrowing this text, let me know!\nThe information on this page comes from two sources by John Muir Laws: The Guide to Nature Drawing and Journaling and Opening the World Through Nature Journaling.\nIf you’re interested in developing your journaling practice further, I would highly recommend John Muir Laws’s work! He has many free videos walking through observation techniques, drawing, composition, etc."
   },
   {
-    "objectID": "resources/site-presentations.html#overview",
-    "href": "resources/site-presentations.html#overview",
-    "title": "Site presentations",
-    "section": "",
-    "text": "Site presentations are a crucial part of sections. Site presentations allow everyone to set their expectations (or hopes!) of what the field trip will entail the next day.\nYou will be responsible for briefing your peers for one site. Sign up for a site presentation here."
+    "objectID": "resources/promoting-observations.html#promoting-observation",
+    "href": "resources/promoting-observations.html#promoting-observation",
+    "title": "Methods of promoting observations",
+    "section": "Promoting observation",
+    "text": "Promoting observation\n\nI notice…\nExamine whatever you are looking at. Start to say observations out loud. Do not filter anything out: if you see it, say it. Look at structure, behavior, color, interactions. Change your perspective: look up close or far away and see what else you can observe. If you find yourself running out of observations, challenge yourself to discover something new, or just say “I notice. . .” until an idea pops out. Pay attention to what surprises you. This gives you insight into ways that the world is different than you had thought.\n\n\nI wonder…\nAfter observing your object, start to come up with questions about it and say those out loud, too. Your questions might be connected to an observation you made earlier, or they could be about any aspect of what you’re observing. There is no need to worry about answering the questions yet. Just get them all out there. It’s okay if you continue to make-and say-observations as you come up with questions.\n\n\nIt reminds me of…\nLast, say out loud everything that your object reminds you of. Allow yourself to be uninhibited in this step. Say anything that comes to mind: the object may have jarred your memory, reminding you of an experience you’ve had or a piece of information you already know, or the way it looks physically might remind you of something. Try looking at individual parts of the object, then back up and examine it as a whole."
   },
   {
-    "objectID": "resources/site-presentations.html#your-responsibilities",
-    "href": "resources/site-presentations.html#your-responsibilities",
-    "title": "Site presentations",
-    "section": "Your responsibilities",
-    "text": "Your responsibilities\nPrior to giving your site presentation, you should:\n\ncomplete any readings on Canvas\nread the chapter relating to your site’s ecosystem and/or management from Ecosystems of California\ncoordinate with your site presentation partner on:\n\nhow you would like to work together on your presentation\nwhen you would like to meet with An to check in about your presentation\n\nexplore observations from your site on iNaturalist and eBird\n\n\n\n\n\n\n\nEcosystems of California\n\n\n\nMuch of the ecological information you will need to digest and relay to your peers is in Ecosystems of California (edited by Harold Mooney and Erika Zavaleta). The book can be accessed online via the UCSB Library for free. To access the book, you must be connected to the campus wireless network, logged in via the library proxy, or connected to a campus VPN. See An if you need help with any of these options."
-  },
-  {
-    "objectID": "resources/site-presentations.html#what-to-include",
-    "href": "resources/site-presentations.html#what-to-include",
-    "title": "Site presentations",
-    "section": "What to include",
-    "text": "What to include\nAll site presentations should be in the form of Google or Powerpoint slides. Your presentation should include:\n\nthe site name\nthe dominant ecosystem type (this can be tricky to categorize, )"
+    "objectID": "resources/promoting-observations.html#interrogatives",
+    "href": "resources/promoting-observations.html#interrogatives",
+    "title": "Methods of promoting observations",
+    "section": "Interrogatives",
+    "text": "Interrogatives\n\nWho: identity and identification\n“Who made this nest?” “What kind of bird is that?”\n\n\nWhat: describing events, trends, phenomena, behaviors\n“What foraging strategies is this bird using?” “What is happening here?” “What happens when the sun comes out?”\n\n\nWhere: location (local and large scale)\n“Do I spot this species at the forest edge or deep in the woods?” “Is this bird a resident or is it migrating?” “Where is it going next?” “Where will it spend the night?” “Is this nest hole oriented for protection from the wind or water?”\nWhen: timing and phenology “What part of the nesting cycle are we in?” “How does the approaching winter play into what the bird is doing right now?” “How long can this cormorant hold its breath?” “How long does it take for the newt to crawl over a log?” “When did the flower turn into the fruit?”\n\n\nHow: mechanism or process\n“How do those pelicans fly so close to the water without hitting the surface?” “How do bustits weave such delicate nests?”\n\n\nWhy: reason or meaning\n“Why are the wings tilted up?” “Why are the leaves glossy?” “Why are these two individuals growing in such different locations?”\n“Why” questions can be asked of any observation and are a good follow-up to other questions, to push inquiry deeper."
   },
   {
     "objectID": "assignments/02_interaction-diagram.html",
@@ -119,48 +147,6 @@
     "text": "Checklist\nBy the due date, you should have:\n\nsigned up for two site × taxonomic group combinations\naddressed the points in part 3 and 4 in a Word or Google doc\nuploaded your written responses to the Canvas portal"
   },
   {
-    "objectID": "resources/notebook-setup.html",
-    "href": "resources/notebook-setup.html",
-    "title": "Notebook set up",
-    "section": "",
-    "text": "You will have to keep track of a lot of information. You are less likely to lose track of that information if you set up your notebook so that you won’t forget.\n\n\n\n\n\n\nPrep for each field day!\n\n\n\nYou will relieve pressure on your morning if you are able to prepare for class the night before. This includes your notebook! Before heading out, you can list the important metadata to have, format your pages, etc. so that by the time you are in the field, all you have to do is fill in the information."
-  },
-  {
-    "objectID": "resources/notebook-setup.html#why-is-it-important-to-set-up-your-notebook",
-    "href": "resources/notebook-setup.html#why-is-it-important-to-set-up-your-notebook",
-    "title": "Notebook set up",
-    "section": "",
-    "text": "You will have to keep track of a lot of information. You are less likely to lose track of that information if you set up your notebook so that you won’t forget.\n\n\n\n\n\n\nPrep for each field day!\n\n\n\nYou will relieve pressure on your morning if you are able to prepare for class the night before. This includes your notebook! Before heading out, you can list the important metadata to have, format your pages, etc. so that by the time you are in the field, all you have to do is fill in the information."
-  },
-  {
-    "objectID": "resources/notebook-setup.html#information-for-each-day",
-    "href": "resources/notebook-setup.html#information-for-each-day",
-    "title": "Notebook set up",
-    "section": "Information for each day",
-    "text": "Information for each day\nAll days of class or assignments should, at minimum, include the date.\nFor field days, you should be recording the following metadata, or information about your observations, in addition to the date:\n\ntime start and end of trip\nnumber of people in group"
-  },
-  {
-    "objectID": "resources/notebook-setup.html#information-for-each-species",
-    "href": "resources/notebook-setup.html#information-for-each-species",
-    "title": "Notebook set up",
-    "section": "Information for each species",
-    "text": "Information for each species\nIn class, we will stop to discuss some organisms to remember. For each organism, you should have your notes organized in a table with the following columns:\n\nspecies and/or common name\ndefining characteristics\ncontext in which you observed the organism (e.g. foraging, growing with other shrubs)"
-  },
-  {
-    "objectID": "resources/notebook-setup.html#information-for-each-field-observation",
-    "href": "resources/notebook-setup.html#information-for-each-field-observation",
-    "title": "Notebook set up",
-    "section": "Information for each field observation",
-    "text": "Information for each field observation\nIn the field, we will occasionally stop for you to conduct an “observation”, or looking at, recording, reflecting on an organism or ecological interaction. For each observation, you should include the following metadata:\n\ntime start and end of observation\nweather"
-  },
-  {
-    "objectID": "resources/notebook-setup.html#notebook-checks",
-    "href": "resources/notebook-setup.html#notebook-checks",
-    "title": "Notebook set up",
-    "section": "Notebook checks",
-    "text": "Notebook checks\nYour in-class work will be checked and graded during weeks 4 and 10. There is an optional check during week 2 if you would like early feedback. When preparing your notebook for a check, make sure that it includes:\n\nnotes and reflective responses from section\nfield notes\nfield observations\nall necessary metadata\n\nAdditionally, be sure that your responses to questions are specific to the environment, field site, organism, etc. Not sure if you’re providing enough detail? Have someone else read your notebook (and you can read theirs!) to see if there’s something you’re missing."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "ENVS 193FE: Field Exploration of Local Ecology",
@@ -172,6 +158,6 @@
     "href": "index.html#instructional-team",
     "title": "ENVS 193FE: Field Exploration of Local Ecology",
     "section": "Instructional team",
-    "text": "Instructional team\n\n\n\n\n\n\n\n\nName: An Bui (she/her)\nForms of address: An (preferred), Dr. Bui, Professor Bui\nEmail: an_bui [at] ucsb [dot] edu\nDrop-in hours: Thursdays 9:30 - 11:30 AM\nDrop-in location: At the tables outside the UCen 1st floor (facing the lagoon)\nMore about me: an-bui.com\n\n\n\n\n\n\n\n\n\n\nName: Linda Herrera\nForms of address: Linda\nDrop-in hours: TBD\nDrop-in location: TBD\nMore about me: TBD\n\n\n\n\n\nMore Mesa, September 2026."
+    "text": "Instructional team\n\n\n\n\n\n\n\n\nName: An Bui (she/her)\nForms of address: An (preferred), Dr. Bui, Professor Bui\nEmail: an_bui [at] ucsb [dot] edu\nDrop-in hours: Mondays 10:00-11:30 AM\nDrop-in location: At the tables outside the UCen 1st floor (facing the lagoon)\nMore about me: an-bui.com\n\n\n\n\n\n\n\n\n\n\nName: Linda Herrera\nForms of address: Linda\nDrop-in hours: TBD\nDrop-in location: TBD\nMore about me: TBD\n\n\n\n\n\nMore Mesa, September 2026."
   }
 ]

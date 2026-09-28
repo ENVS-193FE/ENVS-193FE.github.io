@@ -1,0 +1,78 @@
+---
+title: "Guide to field note-taking"
+description: "What to consider when recording information in the field"
+format: html
+---
+
+## Why is it important to set up your notebook?
+
+You will have to keep track of a lot of information. You are less likely to lose track of that information if you set up your notebook so that you _won't_ forget.
+
+:::{.callout-tip title="Prep for each field day!"}
+You will relieve pressure on your morning if you are able to prepare for class the night before. This includes your notebook! Before heading out, you can list the important metadata to have, format your pages, etc. so that by the time you are in the field, all you have to do is fill in the information.
+:::
+
+## Notebook organization
+
+Every field day, you will be recording your observations in your notebook. Your field notebook is the repository for all the information you will be learning in the field. It is very important to keep it organized! 
+
+Each field day should include:
+
+- Metadata
+- Species account
+- Observations and field notes
+- Post-field day reflection
+
+Your species account and observations with field notes will be completed in class. Your post-field day reflection will be done outside of class.
+
+## Metadata
+
+“Metadata” is information about information. Metadata provides broad context for the information you record in your notebook.  For each field day, you should record:
+
+- Date
+- Time (start and end)
+- Location
+- Number of people in group
+- Weather (qualitative description)
+
+## Species accounts
+
+In the field, we will walk around and identify organisms of varying taxonomic groups to get a sense of how a habitat or ecosystem is structured. 
+
+Your species account should be organized in a table; you can draw this in your notebook prior to the field day so that you can keep track of the species we discuss. 
+
+Each species account section should be organized with the following information in organized columns:
+
+- species
+- number of individuals
+- identifying characteristics
+- behavior, phenology, location, etc.
+- notes
+
+:::{.callout-tip title="Priorities in the field"}
+You may find that your notes get messy when you're taking down information in the field. That is ok! If your species accounts get messy, take time _after class_ to copy your notes onto clean pages in your notebook.
+
+You will receive feedback to incorporate this practice into your maintenance of your field notebook during the notebook checks if your species accounts are particularly messy.
+:::
+
+## Observations and field notes
+
+Field notes and observations are the core of this class. Good notes document species observations (what did you see), behaviors/trends/phenomena (what was it doing), and the context for those observations (where did you see what you saw, at what time of day/year). Field notes also signify what you think is important to document; you are assigning value to information when you’re deciding whether or not to write it down.
+
+Above all, field notes must be honest and accurate. This means that you have documented what you have sincerely tried to understand as true, incorporating information from your own perspective, others’ perspectives, and other sources of information (e.g. field guides, literature).
+
+## Post-field trip reflection
+
+Each field trip should be accompanied by a reflection, which takes the form of a diary format chronicling the trip using information from the notes you take in the field (this is why it’s important to keep good field notes!). 
+
+Each reflection should start with the date and time you complete the reflection (I recommend the same-day or day after, when things are fresh in your memory).
+
+The content of the reflection should include:
+
+- **A narrative account of the trip**: where we went at the site, where we stopped to conduct detailed observations, etc.
+- **New experiences for you**: for example, a new organism, drawing, conversation with someone in the class, identification, etc.
+- **How you improved in a skill**: for example, drawing a diagram, composing an observation page, keeping track of all your personal items, etc.
+
+All reflections should be done in your field notebook.
+
+

@@ -1,0 +1,54 @@
+---
+title: "Independent field trip option 1: (sub)urban parks"
+date: 2026-10-27
+draft: true
+---
+
+[Due Tuesday 27 October at the beginning of class]{style="color: #D95204; font-size: 28px;"} 
+
+## Overview
+
+In class on the 20th, we visited Lake Los Carneros in Goleta. LLC is one example of a built green space that provides wildlife habitat and space for human recreation. In this independent field trip option, you will visit and conduct a field observation at _two_ parks in Isla Vista. Choose this option if you are interested in urban planning and the incorporation of green spaces in residential areas.
+
+You will turn in a **hard copy** of this assignment in class. If you don't want to turn in your entire notebook, do this assignment _separately_ from your notebook. 
+
+## Locations
+
+Choose _two_ parks to visit from lists A and B.
+
+List A:
+
+List B:
+
+## Assignment overview
+
+:::{.callout-tip title="Don't forget your metadata!"}
+
+:::
+
+### a. Create a species account.
+
+Walk around the park and identify as many species as possible to characterize the park's habitat.
+
+### b. Conduct an observation.
+
+Following the steps from class, choose an organism, species, or interaction to focus on observing. 
+
+### c. Repeat steps a-b at the next park!
+
+### d. Write your post-field day reflection.
+
+In your reflection, include 
+
+## Checklist
+
+By the due date, you should have:
+
+- [ ] metadata for your field day(s) at both parks
+- [ ] a species account and observation for a park from list A
+- [ ] a species account and observation for a park from list B
+- [ ] a post-field day reflection for your time at both parks 
+
+You will turn in a **hard copy** of your species accounts, observations, and reflections in class on Tuesday the 27th of October.
+
+visit an IV park (Camino Corto, Tierra de Fortuna, Sea Lookout, Camino Del Sur, Del Sol Vernal Pool, Estero, Anisq’Oyo, People’s Park, Little Acorn, Children’s Park, Trigo-Pasado, Walter-Capps, Window to the Sea, Sea Lookout Park)

@@ -23,7 +23,7 @@ lightbox: true
 :::
 
 ::: {.column width="50%"}
-**Name:** An Bui (she/her)  
+**Professor:** An Bui (she/her)  
 **Forms of address:** An (preferred), Dr. Bui, Professor Bui  
 **Email:** an_bui [at] ucsb [dot] edu  
 **Drop-in hours:** Mondays 10:00-11:30 AM  
@@ -39,14 +39,14 @@ lightbox: true
 
 ::: {.column width="50%"}
 
-![](){fig-align="center" width="80%"}
+![](images/IMG_7579.JPG){fig-align="center" width="80%"}
 :::
 
 ::: {.column width="50%"}
-**Name:** Linda Herrera  
+**Undergraduate learning assistant:** Linda Herrera (she/her)  
 **Forms of address:** Linda  
-**Drop-in hours:** TBD  
-**Drop-in location:** TBD  
+**Drop-in hours:** Wednesdays 11:00 AM - 12:00 PM  
+**Drop-in location:** At the tables outside the UCen 1st floor (facing the lagoon)     
 **More about me:** TBD
 :::
 

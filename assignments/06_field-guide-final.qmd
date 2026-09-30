@@ -1,6 +1,48 @@
 ---
 title: "Field guide - final draft"
 date: 2026-11-02
-format: html
+draft: true
 ---
+
+## Overview
+
+This is the _final_ draft of your field guide. Use this as a checklist for the minimum components you should have in your field guide after the work you have done in previous assignments and incorporating the peer feedback you receive(d) in section.
+
+## Assignment
+
+[Your field guide must be hand made and written.]{style="color: #D95204;"} Take this into account when you are designing the layout. Note that you have complete creative license in design! Consider a zine format, scrapbook, journal, etc. outside the bounds of regular blank paper.
+
+At the beginning of your field guide, you should have:
+
+- [ ] a title page: the title, your name, and the year
+- [ ] a map of the region your field guide covers (i.e. the boundaries of the field site)
+- [ ] a list of species covered in the field guide
+- [ ] a final version of the interaction diagram you drew with two additional species
+- [ ] a 3-5 sentence description of the interactions depicted in your diagram and their ecological basis
+
+Each species in your field guide should have a separate entry. For each species entry, you should have:
+
+- [ ] visuals: drawings, paintings, collage, photographs etc. emphasizing important field marks for identification with arrows, boxes, highlighting, etc. **Note: you _must_ create your own visuals!**
+- [ ] species description: measurements, components of anatomy, behavior, calls/songs (if applicable), etc. _in your own words_
+- [ ] habitat description: where the species might be found at the study site (1-2 sentences)
+- [ ] ecological description: what ecological role does this species occupy at the study site and/or in the region? (2-3 sentences)
+- [ ] in-text citations
+
+## 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

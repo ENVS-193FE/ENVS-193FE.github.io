@@ -1,6 +1,13 @@
 ---
 title: "Field guide - first draft"
 date: 2026-10-20
-format: html
+draft: true
 ---
 
+[Due Tuesday 20 October at the beginning of class]{style="color: #D95204; font-size: 28px;"} 
+
+## Overview
+
+This is the last of four project prep assignments for the **field guide** assignment. Previously, you created a detailed outline of the components of your field guide. In this assignment, you write a full draft of the text you outlined.
+
+[All components of this assignment should be done by hand on paper. Note that your final field guide must be completely hand drawn and written.]{style="color: #D95204; font-weight: bold"} 

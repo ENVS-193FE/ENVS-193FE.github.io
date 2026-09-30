@@ -8,7 +8,11 @@ categories: [field guide, individual assignment]
 
 ## Project overview
 
-This is the first of five project prep assignments for the **field guide** assignment. Your final field guide will be a guide to the 5 most common species in a given taxonomic group at the site of your choosing.
+This is the first of four project prep assignments for the **field guide** assignment. Your final field guide will be a guide to the 5 most common species in a given taxonomic group at the site of your choosing.
+
+::: {.column-margin}
+edited 2026-09-30: there are _four_ project prep assignments, not _five_ as previously stated.
+:::
 
 ## Assignment
 

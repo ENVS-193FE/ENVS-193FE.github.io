@@ -1,14 +1,18 @@
 ---
 title: "Interaction diagram"
 date: 2026-10-06
-categories: [field guide, individual assignment, ]
+categories: [field guide, individual assignment]
 ---
 
 [Due Tuesday 6 October at the beginning of class]{style="color: #D95204; font-size: 28px;"} 
 
 ## Overview
 
-This is the second of five project prep assignments for the **field guide** assignment. Previously, you selected two site × taxonomic group combinations and described why you were interested in those sites/groups. In this assignment, you will explore the potential relationships between species you selected and other species that may occur at that site. You will depict relationships between species using an **interaction diagram** that will ultimately appear in your final field guide.
+This is the second of four project prep assignments for the **field guide** assignment. Previously, you selected two site × taxonomic group combinations and described why you were interested in those sites/groups. In this assignment, you will explore the potential relationships between species you selected and other species that may occur at that site. You will depict relationships between species using an **interaction diagram** that will ultimately appear in your final field guide.
+
+::: {.column-margin}
+edited 2026-09-30: there are _four_ project prep assignments, not _five_ as previously stated.
+:::
 
 [All components of this assignment should be done by hand on paper.]{style="color: #D95204; font-weight: bold"} 
 

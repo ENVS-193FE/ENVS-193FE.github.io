@@ -1,0 +1,6 @@
+---
+title: "Field guide - self evaluation"
+date: 2026-11-02
+format: html
+---
+

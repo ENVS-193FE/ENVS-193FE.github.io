@@ -3,7 +3,8 @@
     "listing": "/resources.html",
     "items": [
       "/resources/notebook-organization.html",
-      "/resources/promoting-observations.html"
+      "/resources/promoting-observations.html",
+      "/resources/site-presentations.html"
     ]
   },
   {
@@ -11,7 +12,8 @@
     "items": [
       "/assignments/01_site-and-species-selection.html",
       "/assignments/02_interaction-diagram.html",
-      "/assignments/03_detailed-outline.html"
+      "/assignments/03_detailed-outline.html",
+      "/assignments/04_field-guide-draft.html"
     ]
   }
 ]

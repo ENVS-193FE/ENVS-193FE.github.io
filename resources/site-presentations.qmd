@@ -1,15 +1,13 @@
 ---
 title: "Site presentations"
 description: "What to include in your presentation"
-format: html
-draft: true
 ---
 
 ## Overview
 
 Site presentations are a crucial part of sections. Site presentations allow everyone to set their expectations (or hopes!) of what the field trip will entail the next day.
 
-You will be responsible for briefing your peers for _one_ site. Sign up for a site presentation [here](https://docs.google.com/spreadsheets/d/1OR393YzaPTC-R-mELllMHuMeYUTgz5k1FTE8WXMv8Uk/edit?usp=sharing).
+You will be responsible for briefing your peers on _one_ site. Sign up for a site presentation [here](https://docs.google.com/spreadsheets/d/1OR393YzaPTC-R-mELllMHuMeYUTgz5k1FTE8WXMv8Uk/edit?usp=sharing).
 
 ## Your responsibilities
 
@@ -20,7 +18,7 @@ Prior to giving your site presentation, you should:
 - [ ] coordinate with your site presentation partner on: 
   - [ ] how you would like to work together on your presentation
   - [ ] when you would like to meet with An to check in about your presentation
-- [ ] explore observations from your site on iNaturalist and eBird
+- [ ] explore observations from your site on iNaturalist
   
 :::{.callout-tip title="_Ecosystems of California_"}
 Much of the ecological information you will need to digest and relay to your peers is in _Ecosystems of California_ (edited by Harold Mooney and Erika Zavaleta). The book can be accessed online via the [UCSB Library](https://search.library.ucsb.edu/permalink/01UCSB_INST/1o0vcsa/alma9912432923906531) for **free**. To access the book, you must be connected to the campus wireless network, logged in via the library proxy, or connected to a campus VPN. See An if you need help with any of these options.
@@ -28,7 +26,48 @@ Much of the ecological information you will need to digest and relay to your pee
 
 ## What to include
 
-All site presentations should be in the form of Google or Powerpoint slides. Your presentation should include:
+All site presentations should be in the form of Google or Powerpoint slides (except for the presentation done in the field). Your presentation should include (not necessarily in this order):
+
+### Basic information
 
 - [ ] the site name
-- [ ] the dominant ecosystem type (this can be tricky to categorize, )
+- [ ] the dominant ecosystem type (this can be tricky to categorize, so you may consider listing a few different types but focusing on one)
+- [ ] the features (e.g. geological, plant community) that define that/those ecosystem type(s)
+- [ ] services provided by this ecosystem type (e.g. carbon sequestration, flooding mitigation) with an explanation of why that occurs
+- [ ] management information (i.e. who manages the site)
+- [ ] threats to this ecosystem type, and potential solutions
+
+### Background
+
+- [ ] the geological history of the ecosystem type (enough to understand why certain plants may occur there)
+- [ ] the ecological background of the ecosystem type, including
+  - [ ] 2-3 examples of other sites of the same ecosystem type
+  - [ ] a discussion of how these sites differ or are similar to the field site
+  - [ ] interactions between species communities within this ecosystem type (e.g. predation, herbivory, competition)
+- [ ] the history of human disturbance and interaction with this ecosystem type
+
+### Species occurrences
+
+- [ ] the most commonly recorded plant species on iNaturalist
+- [ ] potential sightings of birds, mammals, herps, arthropods (not all of these - choose a taxonomic group that you and your partner are interested in)
+
+### Additional components
+
+- [ ] 1-2 group discussion questions based on the class readings and your chapter of _Ecosystems of California_
+
+:::{.callout-note title="Prepping discussion questions"}
+Prior to your presentation, make a one-on-one appointment (or come to drop-in hours) with An to check in about your discussion questions. This is _strongly recommended_ (but not required) to make sure that you're on track.
+:::
+
+### Presentation style
+
+Independently of the material you present, you should be considering:
+
+- presentation of text: are there too many words on the slides? Too few?
+- presentation of visuals: are you using pictures, maps, etc. effectively? Are the visuals tied clearly to the points you are making?
+- cohesion: are all the fonts, sizes, faces (e.g. normal, italics, bold) consistent? Is the formatting consistent across slides?
+- oral presentation: are you and your partner speaking for approximately equal amounts of time? Are you stopping for questions from the audience?
+- aesthetics: have you designed your slides in an aesthetically pleasing way? Have you expanded your presentation past the default settings on your platform of choice?
+
+
+

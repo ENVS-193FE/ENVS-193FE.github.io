@@ -1,13 +1,43 @@
 ---
 title: "Field guide - first draft"
 date: 2026-10-20
-draft: true
 ---
 
 [Due Tuesday 20 October at the beginning of class]{style="color: #D95204; font-size: 28px;"} 
 
 ## Overview
 
-This is the last of four project prep assignments for the **field guide** assignment. Previously, you created a detailed outline of the components of your field guide. In this assignment, you write a full draft of the text you outlined.
+This is the last of four project prep assignments for the **field guide** assignment. Previously, you created a detailed outline of the components of your field guide. In this assignment, you will write a full draft of the text you outlined.
 
-[All components of this assignment should be done by hand on paper. Note that your final field guide must be completely hand drawn and written.]{style="color: #D95204; font-weight: bold"} 
+To have some flexibility in writing, this assignment may be done digitally _or_ by hand. If you choose to complete your assignment digitally, make sure to factor in the time to print it out. [Note that your final field guide must be hand made and written.]{style="color: #D95204; font-weight: bold"} Keep this in mind when you're developing your text!
+
+## Assignment
+
+### 1. Write the text you need!
+
+Using the outline you wrote last week, expand your bulleted ideas into complete prose. 
+
+### 2. Fill in your mock layout.
+
+:::{.callout-tip}
+If your mock layout is not the full size of your final field guide, expand your layout _prior_ to completing this step.
+:::
+
+Insert your text from part 1 into your mock layout from last week. 
+
+Add in any visuals you have, or placeholders representing what you plan to do.
+
+## Checklist
+
+By the due date, you should have:
+
+- [ ] a full sized first draft of your field guide after completing part 2
+
+As a reminder: [this assignment may be done digitally or by hand.]{style="color: #D95204; font-weight: bold"} You will turn in the paper copy of your work in class on Tuesday the 20th. You will then receive written feedback from An.
+
+Prior to peer feedback in class on Monday the 26th, you can either a) incorporate the feedback into a new draft or b) keep the old draft with the written feedback. Decide what to do based on what would be most helpful to you - do you want comments on a clean version or do you want everyone's comments on a single version?
+
+
+
+
+

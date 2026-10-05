@@ -1,14 +1,13 @@
 ---
 title: "Field guide - final draft"
 date: 2026-11-02
-draft: true
 ---
 
 ## Overview
 
 This is the _final_ draft of your field guide. Use this as a checklist for the minimum components you should have in your field guide after the work you have done in previous assignments and incorporating the peer feedback you receive(d) in section.
 
-## Assignment
+## Basic components
 
 [Your field guide must be hand made and written.]{style="color: #D95204;"} Take this into account when you are designing the layout. Note that you have complete creative license in design! Consider a zine format, scrapbook, journal, etc. outside the bounds of regular blank paper.
 
@@ -17,7 +16,7 @@ At the beginning of your field guide, you should have:
 - [ ] a title page: the title, your name, and the year
 - [ ] a map of the region your field guide covers (i.e. the boundaries of the field site)
 - [ ] a list of species covered in the field guide
-- [ ] a final version of the interaction diagram you drew with two additional species
+- [ ] a final version of the interaction diagram you drew with two additional species (part 3 of the interaction diagram assignment)
 - [ ] a 3-5 sentence description of the interactions depicted in your diagram and their ecological basis
 
 Each species in your field guide should have a separate entry. For each species entry, you should have:
@@ -28,7 +27,17 @@ Each species in your field guide should have a separate entry. For each species 
 - [ ] ecological description: what ecological role does this species occupy at the study site and/or in the region? (2-3 sentences)
 - [ ] in-text citations
 
-## 
+## Presentation
+
+The presentation of information in your field guide will be evaluated on:
+
+- [ ] cohesion: all pages have a cohesive look
+- [ ] narrative: your writing depicts the species and site accurately and with evidence to support your claims (i.e. with citations from field guides, articles, or other contextualizing texts appropriate for the assignment)
+- [ ] written communication: your writing is clear, free of grammatical errors
+
+## Creativity
+
+You are welcome to be creative in the way you choose to present information in your field guide! This component is subjective, but reflective of your process in creating a final version of your field guide from the preparation assignments that preceded it. Creativity will be evaluated on the novelty with which you have presented your work and the execution of your original vision. You will make a case for both these points in your self-evaluation.
 
 
 

@@ -21,6 +21,10 @@ Use [GauchoPrint](https://it.ucsb.edu/services/student-services/printing) to pri
 
 Make sure you understand the components you will need to incorporate for your field guide.
 
+:::{.callout-note title="Choose your site × taxonomic group!"}
+In the last assignment, you explored potential relationships between species in your chosen taxonomic group at your site. Before proceeding, _choose one_ with which to move forward.
+:::
+
 ## Assignment
 
 ### 1. Create a mock up of the layout.
@@ -28,6 +32,7 @@ Make sure you understand the components you will need to incorporate for your fi
 In your choice of medium (e.g. Canva, Google Slides, Word doc, pen and paper), create a mock layout of all the pages in your field guide. Use boxes or other shapes to denote areas of the page in which you intend to place an image or text. Label any shapes with what will occupy that space.
 
 Keep in mind that:
+
 - you are not locked into the layout you create here; this is meant for you to be able to visualize your field guide prior to starting the final draft.
 - you do not need to create full page layouts for each page of your field guide; feel free to use half size pages.
 

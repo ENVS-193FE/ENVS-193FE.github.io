@@ -39,21 +39,22 @@ All site presentations should be in the form of Google or Powerpoint slides (exc
 
 ### Background
 
-- [ ] the geological history of the ecosystem type (enough to understand why certain plants may occur there)
+- [ ] the geological features/history of the ecosystem type (enough to understand why certain plants may occur there or distinguishing features are present)
 - [ ] the ecological background of the ecosystem type, including
   - [ ] 2-3 examples of other sites of the same ecosystem type
   - [ ] a discussion of how these sites differ or are similar to the field site
-  - [ ] interactions between species communities within this ecosystem type (e.g. predation, herbivory, competition)
+  - [ ] potential interactions between species communities within this ecosystem type (e.g. predation, herbivory, competition)
 - [ ] the history of human disturbance and interaction with this ecosystem type
 
 ### Species occurrences
 
-- [ ] the most commonly recorded plant species on iNaturalist
+- [ ] commonly recorded plant species on iNaturalist that are distinguish this site/habitat
 - [ ] potential sightings of birds, mammals, herps, arthropods (not all of these - choose a taxonomic group that you and your partner are interested in)
 
 ### Additional components
 
 - [ ] 1-2 group discussion questions based on the class readings and your chapter of _Ecosystems of California_
+- [ ] at least 1 figure from the readings or text presenting _data_ that is relevant to the topic you want to highlight (see An if you need help identifying a figure)
 
 :::{.callout-note title="Prepping discussion questions"}
 Prior to your presentation, make a one-on-one appointment (or come to drop-in hours) with An to check in about your discussion questions. This is _strongly recommended_ (but not required) to make sure that you're on track.
@@ -68,6 +69,7 @@ Independently of the material you present, you should be considering:
 - cohesion: are all the fonts, sizes, faces (e.g. normal, italics, bold) consistent? Is the formatting consistent across slides?
 - oral presentation: are you and your partner speaking for approximately equal amounts of time? Are you stopping for questions from the audience?
 - aesthetics: have you designed your slides in an aesthetically pleasing way? Have you expanded your presentation past the default settings on your platform of choice?
+- integration and transitions: are all the pieces of your presentation arranged in a way that is easy to follow? does each topic flow smoothly to the next?
 
 
 

@@ -9,6 +9,12 @@ Site presentations are a crucial part of sections. Site presentations allow ever
 
 You will be responsible for briefing your peers on _one_ site. Sign up for a site presentation [here](https://docs.google.com/spreadsheets/d/1OR393YzaPTC-R-mELllMHuMeYUTgz5k1FTE8WXMv8Uk/edit?usp=sharing).
 
+**Aim for 25-30 minutes for your site presentation. This includes the time you allocate for discussion and questions - plan accordingly!**
+
+::: {.column-margin}
+edited 2026-10-06: added recommendation for time
+:::
+
 ## Your responsibilities
 
 Prior to giving your site presentation, you should:

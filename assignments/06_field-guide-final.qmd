@@ -3,6 +3,8 @@ title: "Field guide - final draft"
 date: 2026-11-02
 ---
 
+[Due Monday 2 November at the beginning of class]{style="color: #D95204; font-size: 28px;"} 
+
 ## Overview
 
 This is the _final_ draft of your field guide. Use this as a checklist for the minimum components you should have in your field guide after the work you have done in previous assignments and incorporating the peer feedback you receive(d) in section.
@@ -26,6 +28,18 @@ Each species in your field guide should have a separate entry. For each species 
 - [ ] habitat description: where the species might be found at the study site (1-2 sentences)
 - [ ] ecological description: what ecological role does this species occupy at the study site and/or in the region? (2-3 sentences)
 - [ ] in-text citations
+
+Lastly, you should be sure to include:
+
+- [ ] a Works Cited or Reference page listing all the citations you used for your field guide
+
+::: {.column-margin}
+edited 2026-10-11: added requirement for citations
+:::
+
+:::{.callout-note title="Citation format"}
+You are free to use any citation format. You do not need to provide URLs for webpages; however, you should provide enough information such that someone could find the same page via a google search.
+:::
 
 ## Presentation
 

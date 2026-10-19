@@ -1,0 +1,56 @@
+---
+title: "Independent field trip option 2: estuaries"
+date: 2026-11-17
+---
+
+[Due Tuesday 17 November at the beginning of class]{style="color: #D95204; font-size: 28px;"} 
+
+## Overview
+
+Carpinteria Salt Marsh is the field site for week 7. Carp Salt Marsh and Devereux Slough (at NCOS/COPR) are examples of estuaries - specifically salt marshes - which are key coastal ecosystems. In this independent field trip option, you will visit another estuary close to campus: Goleta Slough. Choose this option if you are interested in ecosystems bridging marine and freshwater aquatic systems.
+
+You will turn in a **hard copy** of this assignment in class. If you don't want to turn in your entire notebook, do this assignment _separately_ from your notebook. 
+
+## Locations
+
+You will walk, bike, or otherwise travel to three points relating to Goleta Slough, all within 1 mile of Henley Gate: 1) Tecolotito Creek Bridge, 2) pond at Atascadero Creek bend, and 3) the mouth of the slough.
+
+## Assignment overview
+
+:::{.callout-tip title="Don't forget your metadata!"}
+
+:::
+
+### a. Create a species account.
+
+At each of these points, identify as many species as possible _in one taxonomic group_ to characterize the habitat in which you find yourself. 
+
+Take _at least_ 15 minutes for your species accounts. 
+
+### b. Conduct an observation.
+
+Choose _two_ points at which you want to closely observe an organism, species, or interaction.
+
+Take _at least_ for minutes on your observation.
+
+### c. Write your post-field day reflection.
+
+In your reflection, compare what you saw at Goleta Slough with Carpinteria Salt Marsh and Devereux Slough. Discuss how they compare in:
+
+- water source
+- water level
+- species richness (i.e. number of species)
+- community composition (i.e. species present)
+
+Discuss _why_ you may have observed any similarities or differences (e.g. shared habitats, common plants, time of day of visit).
+
+## Checklist
+
+By the due date, you should have:
+
+- [ ] metadata for your field day
+- [ ] species accounts for all three points on the map
+- [ ] an observation from two points of your choosing
+- [ ] a post-field day reflection 
+
+You will turn in a **hard copy** of your species accounts, observations, and reflections in class on Tuesday the 17th of November.

@@ -1,24 +1,56 @@
 ---
 title: "Independent field trip option 1: (sub)urban parks"
 date: 2026-10-27
-draft: true
 ---
 
 [Due Tuesday 27 October at the beginning of class]{style="color: #D95204; font-size: 28px;"} 
 
 ## Overview
 
-In class on the 20th, we visited Lake Los Carneros in Goleta. LLC is one example of a built green space that provides wildlife habitat and space for human recreation. In this independent field trip option, you will visit and conduct a field observation at _two_ parks in Isla Vista. Choose this option if you are interested in urban planning and the incorporation of green spaces in residential areas.
+Lake Los Carneros (LLC) in Goleta is the field site for week 4. LLC is one example of a built green space that provides wildlife habitat and space for human recreation. In this independent field trip option, you will visit and conduct a field observation at _four_ parks in Isla Vista. Choose this option if you are interested in urban planning and the incorporation of green spaces in residential areas.
 
 You will turn in a **hard copy** of this assignment in class. If you don't want to turn in your entire notebook, do this assignment _separately_ from your notebook. 
 
 ## Locations
 
-Choose _two_ parks to visit from lists A and B.
+Choose _one_ park to visit from each of the regions listed on the Isla Vista Recreation & Park District [website](https://ivparks.org/isla-vista-district-parks/). 
 
-List A:
+**Central Downtown Parks**
 
-List B:
+- Anisq'Oyo Park
+- Estero Park
+- Little Acorn Park
+- People's Park
+- Perfect Park
+
+**Neighborhood Parks**
+
+- Children's Park
+- Greek Park
+- Sueño Orchard
+- Sueño Park
+- Tierra de Fortuna Park
+- Tipi Village
+- Trigo-Pasado Park
+
+**Bluff-Top Parks**
+
+- Pelican Park
+- Sea Lookout Park
+- Window to the Sea
+- Gaffney Park
+- Rottappel Park
+- Walter Capps Park
+- Camino Pescadero Park
+
+**Natural Open Spaces**
+
+- Camino Corto Open Space
+- Del Playa Open Space
+- Del Sol Vernal Pool Reserve
+
+Use the [map](https://ivparks.org/isla-vista-public-parks-and-open-spaces/) to navigate.
+
 
 ## Assignment overview
 
@@ -28,27 +60,37 @@ List B:
 
 ### a. Create a species account.
 
-Walk around the park and identify as many species as possible to characterize the park's habitat.
+Walk around the park and identify as many species as possible to characterize the park's habitat. Note that this will differ based on the park! 
 
 ### b. Conduct an observation.
 
-Following the steps from class, choose an organism, species, or interaction to focus on observing. 
+At one park, choose an organism, species, or interaction to focus on observing.
 
-### c. Repeat steps a-b at the next park!
+Spend _at least_ 20 minutes on your observation.
 
-### d. Write your post-field day reflection.
+### c. Write your post-field day reflection.
 
-In your reflection, include 
+In your reflection, compare the four parks you visited with LLC. Discuss how they compare in:
+
+- size
+- diversity of habitat types
+- species richness (i.e. number of species)
+- community composition (i.e. species present)
+
+Discuss _why_ you may have observed any similarities or differences (e.g. shared habitats, common plants, time of day of visit).
+
+Lastly, discuss the benefits or costs of these parks to nearby residents. Use specific examples from what you saw at each park to support your claim. 
 
 ## Checklist
 
 By the due date, you should have:
 
-- [ ] metadata for your field day(s) at both parks
-- [ ] a species account and observation for a park from list A
-- [ ] a species account and observation for a park from list B
-- [ ] a post-field day reflection for your time at both parks 
+- [ ] metadata for your field day(s) at all parks
+- [ ] a species account for a "Central Downtown Park"
+- [ ] a species account for a "Neighborhood Park"
+- [ ] a species account for a "Bluff-Top Park"
+- [ ] a species account for a "Natural Open Space"
+- [ ] an observation at one of your four parks
+- [ ] a post-field day reflection for your time at all parks 
 
 You will turn in a **hard copy** of your species accounts, observations, and reflections in class on Tuesday the 27th of October.
-
-visit an IV park (Camino Corto, Tierra de Fortuna, Sea Lookout, Camino Del Sur, Del Sol Vernal Pool, Estero, Anisq’Oyo, People’s Park, Little Acorn, Children’s Park, Trigo-Pasado, Walter-Capps, Window to the Sea, Sea Lookout Park)

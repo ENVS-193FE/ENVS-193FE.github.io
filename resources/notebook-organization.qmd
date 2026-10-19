@@ -14,7 +14,13 @@ You will relieve pressure on your morning if you are able to prepare for class t
 
 ## Notebook organization
 
-Every field day, you will be recording your observations in your notebook. Your field notebook is the repository for all the information you will be learning in the field. It is very important to keep it organized! 
+:::{.column-margin}
+edited 2026-10-19: added some information on organization
+:::
+
+On Mondays, you will be responsible for participating in site presentations. This includes taking notes in your notebook.
+
+On Tuesdays in the field, you will be recording your observations in your notebook. Your field notebook is the repository for all the information you will be learning in the field. It is very important to keep it organized! 
 
 Each field day should include:
 
@@ -24,6 +30,10 @@ Each field day should include:
 - Post-field day reflection
 
 Your species account and observations with field notes will be completed in class. Your post-field day reflection will be done outside of class.
+
+:::{.callout-tip title="Leave yourself space to reorganize!"}
+It is normal for your field notes to be a little messy as you're taking them. If you need to rewrite any notes in your species accounts or observations, then build in the space in your layout to do so.
+:::
 
 ## Metadata
 

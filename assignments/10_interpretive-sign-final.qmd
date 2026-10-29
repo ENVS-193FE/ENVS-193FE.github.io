@@ -1,0 +1,79 @@
+---
+title: "Interpretive sign - final draft"
+date: 2026-11-30
+---
+
+[Due Monday 30 November at the beginning of class]{style="color: #D95204; font-size: 28px;"} 
+
+## Overview and goals
+
+### What is an interpretive sign?
+
+Interpretive signs are often placed along trails to educate people passing by about what they are observing, and often communicate why it is important to study or protect an area or species. For example, Campus Lagoon has many interpretive signs explaining the diﬀerent habitats in the area and species that CCBER works to restore. These signs serve to provide information to the public about what work is currently happening at the lagoon and why it is important. For example, visitors reading a sign about bioswales will know why CCBER employees are working to construct these wetlands around Manzanita Village.
+
+### Goals
+
+Your final interpretive sign should communicate two main messages to the audience (visitors to the field site): 1) why these species are worth conserving/studying and, and 2) why this habitat is worth conserving/studying.
+
+To communicate these messages to the audience, you should include, at minimum:
+
+- a wide view of the ecosystem: what is the landscape or dominant ecosystem types?
+- plant species that occur at that ecosystem: what plants are common in this ecosystem type? How do they characterize the ecosystem?
+- faunal species that occur at that ecosystem _at different trophic levels_: what species occur at the site, and how do they interact (with each other and with the environment)?
+
+You will also demonstrate your ability to distill sources of information for a broad audience. At this point in the quarter, you have experience reading many different kinds of texts: original studies, reviews, field guides, etc. In this assignment, you will integrate information from a variety of sources to tell a story about an ecosystem.
+
+## Examples
+
+See these examples of interpretive trail signs [here](https://drive.google.com/drive/folders/1J8pWpIY4DTxlJc23rvUBAsAyRjhuJjaf). Note: student examples are from an assignment with slightly different parameters, but demonstrate the communication mode and core message of the interpretive sign you will create.
+
+## Basic components
+
+### Sign
+
+[Your sign must be hand made and written.]{style="color: #D95204;"} Take this into account when you are designing the layout.
+
+The final dimensions should be _______________.
+
+Your sign should include:
+
+- [ ] a title
+- [ ] sections with text (500-600 words across all sections) explaining:
+  - [ ] species or interaction(s) of interest, and why they are important to understand
+  - [ ] why the field site and/or habitat of interest is important to conserve/protect
+  - [ ] how humans historically interacted with the site or ecosystem
+  - [ ] how humans currently interact with the site or ecosystem
+- [ ] your own visuals, including at minimum (but not limited to): 
+  - [ ] a depiction of the field site in a map, landscape, or cross-section
+  - [ ] the species of interest
+  
+### Cited text
+
+Most interpretive trail signs do not have citations. Yours shouldn't either! As part of your final submission, you will create a _separate document_ recreating the text on your sign with added citations.
+
+[This component may be typed.]{style="color: #D95204;"}
+
+Your cited text should include:
+
+- [ ] the same text you present on your sign
+- [ ] in-text citations
+- [ ] a Works Cited or Reference page with
+  - [ ] consistently formatted citations using one of the following options: 1) [American Psychological Association (APA)](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html), 2) [Modern Language Association (MLA)](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_style_introduction.html), or 3) [Chicago Manual of Style](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_18th_edition/cmos_formatting_and_style_guide/chicago_manual_of_style_18th_edition.html) format
+
+Prior to citing your sources, you should verify that they are published articles, books, etc. For this assignment, you must _correctly_ cite at least:
+
+- [ ] one original study (i.e. a work in which data are presented), and
+- [ ] one book (e.g. a field guide, textbook, manual)
+
+## Presentation
+
+The presentation of information in your interpretive sign will be evaluated on:
+
+- [ ] cohesion: all text and visuals have a cohesive look
+- [ ] narrative: your writing depicts the species, site, and ecosystem accurately with evidence to support your claims, appropriate for the audience (visitors to the field site)
+- [ ] written communication: your writing is clear, free of grammatical errors
+
+## Creativity
+
+As with your field guide, you can and should be creative in the way you present information for your interpretive sign. This component is reflective of your process in creating an interpretive sign for your field site of interest. Creativity will be evaluated on the novelty with which you have presented your work and the execution of your original vision. You will make a case for both these points in your self-evaluation.
+

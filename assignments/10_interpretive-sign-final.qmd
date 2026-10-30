@@ -49,9 +49,9 @@ Your sign should include:
   
 ### Cited text
 
-Most interpretive trail signs do not have citations. Yours shouldn't either! As part of your final submission, you will create a _separate document_ recreating the text on your sign with added citations.
-
 [This component may be typed.]{style="color: #D95204;"}
+
+Most interpretive trail signs do not have citations. Yours shouldn't either! As part of your final submission, you will create a _separate document_ recreating the text on your sign with added citations.
 
 Your cited text should include:
 

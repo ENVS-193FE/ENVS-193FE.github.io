@@ -11,7 +11,15 @@ Your second class project is an interpretive trail sign. This can be an expansio
 
 **You do _not_ have to make your sign for a class field site. The only requirement is that your site is situated in California.**
 
-Prior to completing this planning assignment, read the [final directions](https://envs-193fe.github.io/assignments/10_interpretive-sign-final.html) for the interpretive sign and review the examples linked in the directions.
+Prior to completing this planning assignment: 
+
+- read the [final directions](https://envs-193fe.github.io/assignments/10_interpretive-sign-final.html) for the interpretive sign
+- review the examples linked in the directions
+- fill out this [google sheet](https://docs.google.com/spreadsheets/d/1F8eIITO9raPe9WWmQAnL4aAEjVfYHAtICuhbx1_LS_o/edit?usp=sharing) with your name, the site you have chosen, and the dominant ecosystem type.
+
+:::{.callout-note title="Sign up for a site and ecosystem soon!"}
+You _may not_ focus on the same site as a classmate. If you feel compelled by a particular location, then sign up for it!
+:::
 
 ## Assignment
 
@@ -22,8 +30,8 @@ In 1-3 sentences each, outline your ideas for the following:
 - the site on which you want to focus
 - the dominant ecosystem at that site
 - why you are interested in this site or ecosystem
-- historical human interaction with the site or ecosystem
-- current human interaction with the site or ecosystem
+- historical human interactions with the site or ecosystem
+- current human interactions with the site or ecosystem
 
 ### Species of interest
 

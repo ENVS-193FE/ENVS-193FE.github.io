@@ -15,12 +15,13 @@ Prior to completing this planning assignment, read the [final directions](https:
 
 ## Assignment
 
-In 1-3 sentences each, outline your ideas for the following:
-
 ### Basic information
+
+In 1-3 sentences each, outline your ideas for the following:
 
 - the site on which you want to focus
 - the dominant ecosystem at that site
+- why you are interested in this site or ecosystem
 - historical human interaction with the site or ecosystem
 - current human interaction with the site or ecosystem
 
@@ -36,10 +37,10 @@ For each of these components, describe _why_ they are relevant to the site _and_
 
 Note that you may write more than 3 sentences for these components if needed.
 
-Describe:
+Describe how you plan to visually represent:
 
-- how you want to visually represent the "wide view" of the ecosystem (examples include but are not limited to: map, landscape, cross-section), and why
-- how you plan to visually represent species of interest and their interactions with each other and the environment
+- the "wide view" of the ecosystem (examples include but are not limited to: map, landscape, cross-section), and why
+- species of interest and their interactions with each other and the environment
 
 ### Outline
 

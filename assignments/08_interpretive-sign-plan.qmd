@@ -7,9 +7,11 @@ date: 2026-11-10
 
 ## Overview
 
-Your second class project is an interpretive trail sign designed for one of the field sites we visit in class. This can be an expansion on your field guide, or you can use this opportunity to learn about a new ecosystem or site.
+Your second class project is an interpretive trail sign. This can be an expansion on your field guide, or you can use this opportunity to learn about a new ecosystem or site. 
 
-Prior to completing this planning assignment, read the final directions for the interpretive sign and review the examples.
+**You do _not_ have to make your sign for a class field site. The only requirement is that your site is situated in California.**
+
+Prior to completing this planning assignment, read the [final directions](https://envs-193fe.github.io/assignments/10_interpretive-sign-final.html) for the interpretive sign and review the examples linked in the directions.
 
 ## Assignment
 
@@ -17,8 +19,8 @@ In 1-3 sentences each, outline your ideas for the following:
 
 ### Basic information
 
-- the field site on which you want to focus
-- the dominant ecosystem at that site (hint: check the site presentations sheet)
+- the site on which you want to focus
+- the dominant ecosystem at that site
 - historical human interaction with the site or ecosystem
 - current human interaction with the site or ecosystem
 

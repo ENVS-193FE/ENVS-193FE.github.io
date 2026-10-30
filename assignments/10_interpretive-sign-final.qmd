@@ -1,5 +1,5 @@
 ---
-title: "Interpretive sign - final draft"
+title: "Interpretive sign - final"
 date: 2026-11-30
 ---
 
@@ -23,6 +23,8 @@ To communicate these messages to the audience, you should include, at minimum:
 
 You will also demonstrate your ability to distill sources of information for a broad audience. At this point in the quarter, you have experience reading many different kinds of texts: original studies, reviews, field guides, etc. In this assignment, you will integrate information from a variety of sources to tell a story about an ecosystem.
 
+**You do not have to make your sign for a class field site. The only requirement is that your site is situated in California.**
+
 ## Examples
 
 See these examples of interpretive trail signs [here](https://drive.google.com/drive/folders/1J8pWpIY4DTxlJc23rvUBAsAyRjhuJjaf). Note: student examples are from an assignment with slightly different parameters, but demonstrate the communication mode and core message of the interpretive sign you will create.
@@ -33,7 +35,7 @@ See these examples of interpretive trail signs [here](https://drive.google.com/d
 
 [Your sign must be hand made and written.]{style="color: #D95204;"} Take this into account when you are designing the layout.
 
-The final dimensions should be _______________.
+The final dimensions of your sign should be at least 8.5 × 14 inches (legal size), but can be larger.
 
 Your sign should include:
 

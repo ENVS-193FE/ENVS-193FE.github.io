@@ -5,16 +5,34 @@ date: 2026-11-10
 
 [Due Tuesday 10 November at the beginning of class]{style="color: #D95204; font-size: 28px;"} 
 
-## Overview
+## Overview, goals, and resourcess
 
-Your second class project is an interpretive trail sign. This can be an expansion on your field guide, or you can use this opportunity to learn about a new ecosystem or site. 
+### What is an interpretive sign?
+
+Interpretive signs are often placed along trails to educate people passing by about what they are observing, and often communicate why it is important to study or protect an area or species. For example, Campus Lagoon has many interpretive signs explaining the diﬀerent habitats in the area and species that CCBER works to restore. These signs serve to provide information to the public about what work is currently happening at the lagoon and why it is important. For example, visitors reading a sign about bioswales will know why CCBER employees are working to construct these wetlands around Manzanita Village.
+
+### Goals
+
+Your final interpretive sign should communicate two main messages to the audience (visitors to the field site): 1) why these species are worth conserving/studying and, and 2) why this habitat is worth conserving/studying.
+
+To communicate these messages to the audience, you should include, at minimum:
+
+- a wide view of the ecosystem: what is the landscape or dominant ecosystem types?
+- plant species that occur at that ecosystem: what plants are common in this ecosystem type? How do they characterize the ecosystem?
+- faunal species that occur at that ecosystem _at different trophic levels_: what species occur at the site, and how do they interact (with each other and with the environment)?
+
+You will also demonstrate your ability to distill sources of information for a broad audience. At this point in the quarter, you have experience reading many different kinds of texts: original studies, reviews, field guides, etc. In this assignment, you will integrate information from a variety of sources to tell a story about an ecosystem.
 
 **You do _not_ have to make your sign for a class field site. The only requirements are that:**
 
 1. your field site is located in California
 2. you are not working on the same field site as a classmate
 
-Prior to completing this planning assignment: 
+### Examples
+
+See these examples of interpretive trail signs [here](https://drive.google.com/drive/folders/1J8pWpIY4DTxlJc23rvUBAsAyRjhuJjaf). Note: student examples are from an assignment with slightly different parameters, but demonstrate the communication mode and core message of the interpretive sign you will create.
+
+### Before completing this planning assignment
 
 - read the [final directions](https://envs-193fe.github.io/assignments/10_interpretive-sign-final.html) for the interpretive sign
 - review the examples linked in the directions

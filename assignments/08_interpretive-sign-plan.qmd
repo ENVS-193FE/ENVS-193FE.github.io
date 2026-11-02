@@ -9,17 +9,16 @@ date: 2026-11-10
 
 Your second class project is an interpretive trail sign. This can be an expansion on your field guide, or you can use this opportunity to learn about a new ecosystem or site. 
 
-**You do _not_ have to make your sign for a class field site. The only requirement is that your site is situated in California.**
+**You do _not_ have to make your sign for a class field site. The only requirements are that:**
+
+1. your field site is located in California
+2. you are not working on the same field site as a classmate
 
 Prior to completing this planning assignment: 
 
 - read the [final directions](https://envs-193fe.github.io/assignments/10_interpretive-sign-final.html) for the interpretive sign
 - review the examples linked in the directions
 - fill out this [google sheet](https://docs.google.com/spreadsheets/d/1F8eIITO9raPe9WWmQAnL4aAEjVfYHAtICuhbx1_LS_o/edit?usp=sharing) with your name, the site you have chosen, and the dominant ecosystem type.
-
-:::{.callout-note title="Sign up for a site and ecosystem soon!"}
-You _may not_ focus on the same site as a classmate. If you feel compelled by a particular location, then sign up for it!
-:::
 
 ## Assignment
 

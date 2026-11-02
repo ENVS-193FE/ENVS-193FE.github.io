@@ -1,5 +1,7 @@
 ---
 title: "12_interpretive-sign-self-evaluation"
+date: 2026-11-30
+categories: [interpretive sign, individual assignment]
 draft: true
 ---
 

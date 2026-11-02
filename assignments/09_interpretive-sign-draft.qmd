@@ -1,5 +1,6 @@
 ---
 title: "09_interpretive-sign-draft"
 draft: true
+categories: [interpretive sign, individual assignment]
 ---
 

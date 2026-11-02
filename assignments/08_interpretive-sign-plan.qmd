@@ -1,6 +1,7 @@
 ---
 title: "Interpretive sign - planning"
 date: 2026-11-10
+categories: [interpretive sign, individual assignment]
 ---
 
 [Due Tuesday 10 November at the beginning of class]{style="color: #D95204; font-size: 28px;"} 

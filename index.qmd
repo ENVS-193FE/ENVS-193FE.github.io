@@ -1,5 +1,5 @@
 ---
-title: "ENVS 193FE: Field Exploration of Local Ecology"
+title: "Field Exploration of Local Ecology"
 format: 
    html:
      include-in-header: 

@@ -1,6 +1,7 @@
 ---
 title: "Field guide - final"
 date: 2026-11-02
+categories: [field guide, individual assignment]
 ---
 
 [Due Monday 2 November at the beginning of class]{style="color: #D95204; font-size: 28px;"} 

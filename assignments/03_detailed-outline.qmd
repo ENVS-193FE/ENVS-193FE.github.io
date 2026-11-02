@@ -1,6 +1,7 @@
 ---
 title: "Detailed outline"
 date: 2026-10-13
+categories: [field guide, individual assignment]
 ---
 
 [Hard copy due at the beginning of class on Tuesday 13 October]{style="color: #D95204; font-size: 28px;"} 

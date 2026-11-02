@@ -1,6 +1,7 @@
 ---
 title: "Field guide - first draft"
 date: 2026-10-20
+categories: [field guide, individual assignment]
 ---
 
 [Due Tuesday 20 October at the beginning of class]{style="color: #D95204; font-size: 28px;"} 
